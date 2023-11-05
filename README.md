@@ -1,4 +1,4 @@
-# EmailAndroid
+# Gmail
 
 Run Activity "EmailActivity"
 
